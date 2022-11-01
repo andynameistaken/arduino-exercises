@@ -1,0 +1,7 @@
+{
+    "sketch": "p03_analog_write/p03_analog_write.ino",
+    "board": "arduino:avr:uno",
+    "programmer": "arduinoisporg",
+    "port": "/dev/tty.usbmodem1401",
+    "output": ".build"
+}
