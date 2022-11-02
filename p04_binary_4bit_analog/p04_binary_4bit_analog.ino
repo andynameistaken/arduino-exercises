@@ -22,7 +22,18 @@ void analogStepDown(int pin, double delayMs) {
     }   
 }
 
-void decimalTo
+void decimalToBinaryLED(int decimalNum, int ledArray[], int size) {
+    if (decimalNum < pow(size ,2)) {
+        while (size > 0) {
+            if (decimalNum % 2 == 1) {
+                analogStepUp(--size)
+            }
+            else {
+                analogStepDown(--size)
+            }
+        }
+    }
+}
 
 void setup() {
     setPinsOut(analogPins, 4);
