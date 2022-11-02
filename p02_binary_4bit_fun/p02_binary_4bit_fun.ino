@@ -18,7 +18,7 @@ void setPinsLow(int pinArr[], int size) {
 
 void decimalToLED(int decimal, int bits, int ledArray[]) {
     if (decimal < pow(2, bits)) {
-        int i = 3;
+        int i = --bits;
         while (decimal > 0) {
             if (decimal % 2 == 1) {
                 digitalWrite(ledArray[i], HIGH);

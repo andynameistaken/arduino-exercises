@@ -23,10 +23,10 @@
    "-DARDUINO_ARCH_AVR",
    "-I/Users/andy/Library/Arduino15/packages/arduino/hardware/avr/1.8.5/cores/arduino",
    "-I/Users/andy/Library/Arduino15/packages/arduino/hardware/avr/1.8.5/variants/standard",
-   "/Users/andy/Devel/Arduino/.build/sketch/p03_analog_write.ino.cpp",
+   "/Users/andy/Devel/Arduino/.build/sketch/p04_binary_4bit_analog.ino.cpp",
    "-o",
-   "/Users/andy/Devel/Arduino/.build/sketch/p03_analog_write.ino.cpp.o"
+   "/Users/andy/Devel/Arduino/.build/sketch/p04_binary_4bit_analog.ino.cpp.o"
   ],
-  "file": "/Users/andy/Devel/Arduino/.build/sketch/p03_analog_write.ino.cpp"
+  "file": "/Users/andy/Devel/Arduino/.build/sketch/p04_binary_4bit_analog.ino.cpp"
  }
 ]

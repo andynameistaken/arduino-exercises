@@ -1,5 +1,5 @@
 {
-    "sketch": "p03_analog_write/p03_analog_write.ino",
+    "sketch": "p04_binary_4bit_analog/p04_binary_4bit_analog.ino",
     "board": "arduino:avr:uno",
     "programmer": "arduinoisporg",
     "port": "/dev/tty.usbmodem1401",

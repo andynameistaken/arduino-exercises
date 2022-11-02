@@ -1,5 +1,5 @@
-/Users/andy/Devel/Arduino/.build/sketch/p03_analog_write.ino.cpp.o: \
- /Users/andy/Devel/Arduino/.build/sketch/p03_analog_write.ino.cpp \
+/Users/andy/Devel/Arduino/.build/sketch/p04_binary_4bit_analog.ino.cpp.o: \
+ /Users/andy/Devel/Arduino/.build/sketch/p04_binary_4bit_analog.ino.cpp \
  /Users/andy/Library/Arduino15/packages/arduino/hardware/avr/1.8.5/cores/arduino/Arduino.h \
  /Users/andy/Library/Arduino15/packages/arduino/hardware/avr/1.8.5/cores/arduino/binary.h \
  /Users/andy/Library/Arduino15/packages/arduino/hardware/avr/1.8.5/cores/arduino/WCharacter.h \
