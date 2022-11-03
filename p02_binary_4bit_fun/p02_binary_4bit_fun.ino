@@ -44,6 +44,7 @@ int pinsArr[] = {8, 7, 4, 2};
 
 void setup()
 {
+    Serial.begin(115200);
     setPinsOut(pinsArr, 4);
 }
 
